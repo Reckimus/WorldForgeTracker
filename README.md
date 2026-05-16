@@ -5,3 +5,4 @@ Things to do still : Remove Mystic Enchant Entries for the WF list
 Fix Tooltip bug (tooltip shown behind some UI elements like FP ui for example)
 Item preview on mouseover of map icon
 
+Update: WorldForgeMap v1.9 Fix UI and Tooltip layering
